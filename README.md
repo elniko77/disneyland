@@ -51,11 +51,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Tips para certificarte de #AWS Solution Architect](https://www.youtube.com/watch?v=iIAw4VjMw3o)
+- [Polémica en /var - Las noticias de Abril](https://www.youtube.com/watch?v=yOZRZjMwfRI)
 - [Polémica en /var - Desilusión en el trabajo](https://www.youtube.com/watch?v=tCbR84tnSWA)
 - [Polémica en /var - Las noticias de Marzo](https://www.youtube.com/watch?v=c2LGll8Qpbo)
 - [Polémica en /var - Las noticias de Febrero](https://www.youtube.com/watch?v=Z_w6SDx645Y)
-- [Polémica en /var - Las noticias de Enero](https://www.youtube.com/watch?v=0O-uk-7fu74)
-- [Polémica en /var - Chau 2022](https://www.youtube.com/watch?v=J6vwodF1I9A)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes

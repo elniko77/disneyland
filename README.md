@@ -31,11 +31,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [consulta sobre formacion](https://help.sysarmy.com/discussion/4874/consulta-sobre-formacion)
 - [Snapd: ¿vale la pena?](https://help.sysarmy.com/discussion/4873/snapd-vale-la-pena)
 - [Certificados para sitios web de una intranet](https://help.sysarmy.com/discussion/4872/certificados-para-sitios-web-de-una-intranet)
 - [Test de performance de un router](https://help.sysarmy.com/discussion/4871/test-de-performance-de-un-router)
 - [Herramienta de Monitoreo de Apache Logs](https://help.sysarmy.com/discussion/4870/herramienta-de-monitoreo-de-apache-logs)
-- [Servidor para acumular temporalmente correos](https://help.sysarmy.com/discussion/4869/servidor-para-acumular-temporalmente-correos)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts

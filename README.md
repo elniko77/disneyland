@@ -51,7 +51,7 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
-- [Especial #AdminFest 2023](https://www.youtube.com/watch?v=ChA5qqdvnLA)
+- [Especial Devops #AdminFest 2023](https://www.youtube.com/watch?v=ChA5qqdvnLA)
 - [Polémica en /var - Junio - Linkedination](https://www.youtube.com/watch?v=5sT-Y30mX1A)
 - [Polémica en /var - Las noticias de Mayo](https://www.youtube.com/watch?v=ruhy1nmw6DY)
 - [Recorriendo las calles en busca del evento de Septiembre.](https://www.youtube.com/watch?v=jl01n2FhcgA)

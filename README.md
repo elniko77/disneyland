@@ -51,11 +51,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [El leak más abarcativo de todos - Polémica en /var](https://www.youtube.com/watch?v=GetB4wjW14Y)
+- [Secuestrado por su empleador - Polémica en /var](https://www.youtube.com/watch?v=pXjg1bFul1c)
+- [Ransomware en escala - Polémica en /var](https://www.youtube.com/watch?v=LvYOYfI1enI)
+- [Qué pasa cuando se llena el disco - Polémica en /var](https://www.youtube.com/watch?v=J4h3TI4gy1E)
 - [Polémica en /var - El post Nerdearla y las noticias de septiembre](https://www.youtube.com/watch?v=woCaypCrwhk)
-- [Nerdearla CCTV + vivo](https://www.youtube.com/watch?v=buxn5UNik7A)
-- [Nerdearla CCTV + vivo](https://www.youtube.com/watch?v=ExY1D_FfzZs)
-- [Especial Nerdearla 2023](https://www.youtube.com/watch?v=Z-N7sSAGo4I)
-- [🚀 Explorando Agosto: Filtraciones, GenZ y Novedades del Open Source en la antesala de Nerdearla23 📰](https://www.youtube.com/watch?v=9Pw4oZBKVb0)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes

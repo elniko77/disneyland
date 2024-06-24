@@ -41,11 +41,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tus primeros 60 días trabajando en sistemas](https://sysarmy.com/blog/posts/primeros-60-dias-laborales/)
 - [Elasticsearch, solución para la busqueda](https://sysarmy.com/blog/posts/elasticsearch-solucion-para-busquedas/)
 - [¿Por qué el lenguaje de programación C es relevante en el 2024? ... Y lo seguirá siendo.](https://sysarmy.com/blog/posts/por-que-c-es-relevante-en-el-2024/)
 - [Sugerencias para desarrolladores que recién empiezan y que ya leyeron todas las otras sugerencias](https://sysarmy.com/blog/posts/sugerencias-para-desarrolladores-que-recien-empiezan/)
 - [Crónicas de Compliance: Cómo el SysAdmin dejó la ansiedad y la preocupación](https://sysarmy.com/blog/posts/cronicas-de-compliance/)
-- [Cómo sentirme cómodo en producción](https://sysarmy.com/blog/posts/sentirme-comodo-produccion/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
